@@ -1,0 +1,14 @@
+D:\Aimore\Projects\ConsoleAppTest\ConsoleAppTest\bin\Debug\netcoreapp3.1\ConsoleAppTest.exe
+D:\Aimore\Projects\ConsoleAppTest\ConsoleAppTest\bin\Debug\netcoreapp3.1\ConsoleAppTest.deps.json
+D:\Aimore\Projects\ConsoleAppTest\ConsoleAppTest\bin\Debug\netcoreapp3.1\ConsoleAppTest.runtimeconfig.json
+D:\Aimore\Projects\ConsoleAppTest\ConsoleAppTest\bin\Debug\netcoreapp3.1\ConsoleAppTest.runtimeconfig.dev.json
+D:\Aimore\Projects\ConsoleAppTest\ConsoleAppTest\bin\Debug\netcoreapp3.1\ConsoleAppTest.dll
+D:\Aimore\Projects\ConsoleAppTest\ConsoleAppTest\bin\Debug\netcoreapp3.1\ConsoleAppTest.pdb
+D:\Aimore\Projects\ConsoleAppTest\ConsoleAppTest\obj\Debug\netcoreapp3.1\ConsoleAppTest.csproj.AssemblyReference.cache
+D:\Aimore\Projects\ConsoleAppTest\ConsoleAppTest\obj\Debug\netcoreapp3.1\ConsoleAppTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aimore\Projects\ConsoleAppTest\ConsoleAppTest\obj\Debug\netcoreapp3.1\ConsoleAppTest.AssemblyInfoInputs.cache
+D:\Aimore\Projects\ConsoleAppTest\ConsoleAppTest\obj\Debug\netcoreapp3.1\ConsoleAppTest.AssemblyInfo.cs
+D:\Aimore\Projects\ConsoleAppTest\ConsoleAppTest\obj\Debug\netcoreapp3.1\ConsoleAppTest.csproj.CoreCompileInputs.cache
+D:\Aimore\Projects\ConsoleAppTest\ConsoleAppTest\obj\Debug\netcoreapp3.1\ConsoleAppTest.dll
+D:\Aimore\Projects\ConsoleAppTest\ConsoleAppTest\obj\Debug\netcoreapp3.1\ConsoleAppTest.pdb
+D:\Aimore\Projects\ConsoleAppTest\ConsoleAppTest\obj\Debug\netcoreapp3.1\ConsoleAppTest.genruntimeconfig.cache
