@@ -1,0 +1,14 @@
+D:\Aimore\Projects\BasicProgram\BasicProgram\bin\Debug\netcoreapp3.1\BasicProgram.exe
+D:\Aimore\Projects\BasicProgram\BasicProgram\bin\Debug\netcoreapp3.1\BasicProgram.deps.json
+D:\Aimore\Projects\BasicProgram\BasicProgram\bin\Debug\netcoreapp3.1\BasicProgram.runtimeconfig.json
+D:\Aimore\Projects\BasicProgram\BasicProgram\bin\Debug\netcoreapp3.1\BasicProgram.runtimeconfig.dev.json
+D:\Aimore\Projects\BasicProgram\BasicProgram\bin\Debug\netcoreapp3.1\BasicProgram.dll
+D:\Aimore\Projects\BasicProgram\BasicProgram\bin\Debug\netcoreapp3.1\BasicProgram.pdb
+D:\Aimore\Projects\BasicProgram\BasicProgram\obj\Debug\netcoreapp3.1\BasicProgram.csproj.AssemblyReference.cache
+D:\Aimore\Projects\BasicProgram\BasicProgram\obj\Debug\netcoreapp3.1\BasicProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aimore\Projects\BasicProgram\BasicProgram\obj\Debug\netcoreapp3.1\BasicProgram.AssemblyInfoInputs.cache
+D:\Aimore\Projects\BasicProgram\BasicProgram\obj\Debug\netcoreapp3.1\BasicProgram.AssemblyInfo.cs
+D:\Aimore\Projects\BasicProgram\BasicProgram\obj\Debug\netcoreapp3.1\BasicProgram.csproj.CoreCompileInputs.cache
+D:\Aimore\Projects\BasicProgram\BasicProgram\obj\Debug\netcoreapp3.1\BasicProgram.dll
+D:\Aimore\Projects\BasicProgram\BasicProgram\obj\Debug\netcoreapp3.1\BasicProgram.pdb
+D:\Aimore\Projects\BasicProgram\BasicProgram\obj\Debug\netcoreapp3.1\BasicProgram.genruntimeconfig.cache
