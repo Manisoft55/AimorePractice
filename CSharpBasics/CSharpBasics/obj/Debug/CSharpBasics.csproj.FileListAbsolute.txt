@@ -1,0 +1,8 @@
+D:\Aimore\Projects\CSharpBasics\CSharpBasics\bin\Debug\CSharpBasics.exe.config
+D:\Aimore\Projects\CSharpBasics\CSharpBasics\bin\Debug\CSharpBasics.exe
+D:\Aimore\Projects\CSharpBasics\CSharpBasics\bin\Debug\CSharpBasics.pdb
+D:\Aimore\Projects\CSharpBasics\CSharpBasics\obj\Debug\CSharpBasics.csproj.AssemblyReference.cache
+D:\Aimore\Projects\CSharpBasics\CSharpBasics\obj\Debug\CSharpBasics.csproj.SuggestedBindingRedirects.cache
+D:\Aimore\Projects\CSharpBasics\CSharpBasics\obj\Debug\CSharpBasics.csproj.CoreCompileInputs.cache
+D:\Aimore\Projects\CSharpBasics\CSharpBasics\obj\Debug\CSharpBasics.exe
+D:\Aimore\Projects\CSharpBasics\CSharpBasics\obj\Debug\CSharpBasics.pdb

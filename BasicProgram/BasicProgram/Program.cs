@@ -19,7 +19,6 @@ namespace BasicProgram
 
                 SampleClass objClassOne = new SampleClass();
 
-
                 int totalValue = objClass.Addition(10, 10);
                 string output = objClass.SampleMethodPublic();
 
