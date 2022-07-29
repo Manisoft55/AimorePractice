@@ -18,6 +18,61 @@ namespace CSharpBasics
         {
             try
             {
+
+                #region Code-29072022
+                Console.WriteLine("please enter day:");
+                string today= Console.ReadLine();
+                Day28072022 obj7 = new Day28072022();
+                string returnDay=  obj7.ReturnDay(Convert.ToInt32(today));
+                Console.WriteLine(returnDay);
+                Console.ReadLine();
+
+
+                Console.WriteLine("Please enter your first string");
+                string inputString5 = Console.ReadLine();
+                Console.WriteLine("Please enter your second string");
+                string inputString6 = Console.ReadLine();
+                Day28072022 obj6 = new Day28072022();
+                Console.WriteLine(obj6.FindMatch(inputString5, inputString6));
+                Console.ReadLine();
+
+
+
+                Console.WriteLine("Please enter your string");
+                string inputString4 = Console.ReadLine();
+                Day28072022 obj5 = new Day28072022();
+                Console.WriteLine(obj5.GetSubString(inputString4));
+                Console.ReadLine();
+
+
+                Console.WriteLine("Please enter your name");
+                string sampleName2 = Console.ReadLine();
+                Console.WriteLine("Please enter the character to find the position");
+                string sampleCharac2 = Console.ReadLine();
+                Day28072022 obj4 = new Day28072022();
+                int index = obj4.FindIndex(sampleName2, sampleCharac2[0]);
+                Console.WriteLine("Your character is placed at the position : " + index);
+                Console.ReadLine();
+
+                Console.WriteLine("Please enter your string");
+                string sampleString = Console.ReadLine();
+                Day28072022 obj3 = new Day28072022();
+                string outputString2 = obj3.ReplaceCharacter(sampleString);
+                Console.WriteLine(outputString2);
+                Console.ReadLine();
+
+
+                Console.WriteLine("Please enter your name");
+                string sampleName = Console.ReadLine();
+                Day28072022 obj2 = new Day28072022();
+
+                string outString = obj2.EscapeCharcter(sampleName);
+                Console.WriteLine(outString);
+                Console.ReadLine();
+                #endregion
+
+
+
                 #region Code-28072022
 
                 Console.WriteLine("Please Enter your first name");
