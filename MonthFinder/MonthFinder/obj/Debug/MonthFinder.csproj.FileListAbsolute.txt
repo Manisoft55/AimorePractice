@@ -1,0 +1,8 @@
+D:\Aimore\Projects\MonthFinder\MonthFinder\obj\Debug\MonthFinder.csproj.AssemblyReference.cache
+D:\Aimore\Projects\MonthFinder\MonthFinder\obj\Debug\MonthFinder.csproj.SuggestedBindingRedirects.cache
+D:\Aimore\Projects\MonthFinder\MonthFinder\obj\Debug\MonthFinder.csproj.CoreCompileInputs.cache
+D:\Aimore\Projects\MonthFinder\MonthFinder\bin\Debug\MonthFinder.exe.config
+D:\Aimore\Projects\MonthFinder\MonthFinder\bin\Debug\MonthFinder.exe
+D:\Aimore\Projects\MonthFinder\MonthFinder\bin\Debug\MonthFinder.pdb
+D:\Aimore\Projects\MonthFinder\MonthFinder\obj\Debug\MonthFinder.exe
+D:\Aimore\Projects\MonthFinder\MonthFinder\obj\Debug\MonthFinder.pdb
