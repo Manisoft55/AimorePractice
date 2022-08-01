@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a550fdba-d91e-4a66-bd7c-ec2aefc42602": {
+      "ProjectGuid": "a550fdba-d91e-4a66-bd7c-ec2aefc42602",
+      "DisplayName": "MonthFinder",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

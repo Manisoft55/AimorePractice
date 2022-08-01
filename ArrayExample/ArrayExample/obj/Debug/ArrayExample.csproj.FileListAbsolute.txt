@@ -1,0 +1,8 @@
+D:\Aimore\Projects\ArrayExample\ArrayExample\bin\Debug\ArrayExample.exe.config
+D:\Aimore\Projects\ArrayExample\ArrayExample\bin\Debug\ArrayExample.exe
+D:\Aimore\Projects\ArrayExample\ArrayExample\bin\Debug\ArrayExample.pdb
+D:\Aimore\Projects\ArrayExample\ArrayExample\obj\Debug\ArrayExample.csproj.AssemblyReference.cache
+D:\Aimore\Projects\ArrayExample\ArrayExample\obj\Debug\ArrayExample.csproj.SuggestedBindingRedirects.cache
+D:\Aimore\Projects\ArrayExample\ArrayExample\obj\Debug\ArrayExample.csproj.CoreCompileInputs.cache
+D:\Aimore\Projects\ArrayExample\ArrayExample\obj\Debug\ArrayExample.exe
+D:\Aimore\Projects\ArrayExample\ArrayExample\obj\Debug\ArrayExample.pdb
