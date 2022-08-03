@@ -1,0 +1,6 @@
+D:\Aimore\Projects\ArrayExample\TestAccessModifier\bin\Debug\TestAccessModifier.dll
+D:\Aimore\Projects\ArrayExample\TestAccessModifier\bin\Debug\TestAccessModifier.pdb
+D:\Aimore\Projects\ArrayExample\TestAccessModifier\obj\Debug\TestAccessModifier.csproj.AssemblyReference.cache
+D:\Aimore\Projects\ArrayExample\TestAccessModifier\obj\Debug\TestAccessModifier.csproj.CoreCompileInputs.cache
+D:\Aimore\Projects\ArrayExample\TestAccessModifier\obj\Debug\TestAccessModifier.dll
+D:\Aimore\Projects\ArrayExample\TestAccessModifier\obj\Debug\TestAccessModifier.pdb

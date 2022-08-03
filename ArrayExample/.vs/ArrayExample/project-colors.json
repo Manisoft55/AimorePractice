@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "05e49fac-8d74-4bb9-b15b-1d718dbe947b": {
+      "ProjectGuid": "05e49fac-8d74-4bb9-b15b-1d718dbe947b",
+      "DisplayName": "ArrayExample",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "426066af-258c-4df1-8ec3-aa47aa1196dc": {
+      "ProjectGuid": "426066af-258c-4df1-8ec3-aa47aa1196dc",
+      "DisplayName": "TestAccessModifier",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

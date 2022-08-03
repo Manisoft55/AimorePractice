@@ -1,0 +1,8 @@
+D:\Aimore\Projects\FindFriend\FindFriend\bin\Debug\FindFriend.exe.config
+D:\Aimore\Projects\FindFriend\FindFriend\bin\Debug\FindFriend.exe
+D:\Aimore\Projects\FindFriend\FindFriend\bin\Debug\FindFriend.pdb
+D:\Aimore\Projects\FindFriend\FindFriend\obj\Debug\FindFriend.csproj.AssemblyReference.cache
+D:\Aimore\Projects\FindFriend\FindFriend\obj\Debug\FindFriend.csproj.SuggestedBindingRedirects.cache
+D:\Aimore\Projects\FindFriend\FindFriend\obj\Debug\FindFriend.csproj.CoreCompileInputs.cache
+D:\Aimore\Projects\FindFriend\FindFriend\obj\Debug\FindFriend.exe
+D:\Aimore\Projects\FindFriend\FindFriend\obj\Debug\FindFriend.pdb
