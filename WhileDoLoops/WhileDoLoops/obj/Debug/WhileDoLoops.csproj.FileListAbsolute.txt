@@ -1,0 +1,8 @@
+D:\Aimore\Projects\WhileDoLoops\WhileDoLoops\bin\Debug\WhileDoLoops.exe.config
+D:\Aimore\Projects\WhileDoLoops\WhileDoLoops\bin\Debug\WhileDoLoops.exe
+D:\Aimore\Projects\WhileDoLoops\WhileDoLoops\bin\Debug\WhileDoLoops.pdb
+D:\Aimore\Projects\WhileDoLoops\WhileDoLoops\obj\Debug\WhileDoLoops.csproj.AssemblyReference.cache
+D:\Aimore\Projects\WhileDoLoops\WhileDoLoops\obj\Debug\WhileDoLoops.csproj.SuggestedBindingRedirects.cache
+D:\Aimore\Projects\WhileDoLoops\WhileDoLoops\obj\Debug\WhileDoLoops.csproj.CoreCompileInputs.cache
+D:\Aimore\Projects\WhileDoLoops\WhileDoLoops\obj\Debug\WhileDoLoops.exe
+D:\Aimore\Projects\WhileDoLoops\WhileDoLoops\obj\Debug\WhileDoLoops.pdb

@@ -14,7 +14,9 @@ namespace ArrayExample
             arrString[0] = "Test Zero";
             arrString[1] = "Test One";
             arrString[2] = "Test two";
-            return arrString;
+            var t = arrString;
+            string [] arrArray = new string[3];
+            return t;
         }
 
         public string[] ReturnSampleArrayOne()
@@ -27,6 +29,8 @@ namespace ArrayExample
         {
             int[] arrInt = { 1, 20, 13, 674, 5, 120, 456 };
             arrInt[4] = 50;
+            Array.Sort(arrInt);
+            Array.Reverse(arrInt);
             return arrInt;
         }
     }

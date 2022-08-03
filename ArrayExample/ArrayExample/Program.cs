@@ -11,6 +11,15 @@ namespace ArrayExample
         static void Main(string[] args)
         {
 
+            Console.WriteLine("Printing Integer Array");
+            ArrExercise obj = new ArrExercise();
+            int[] arrObj = obj.ReturnSampleArrayInteger();
+            foreach (int num in arrObj)
+            {
+                Console.WriteLine(num);
+            }
+            Console.ReadLine();
+
             Console.WriteLine("Printing Array");
 
             ArrExercise arrExerciseOne = new ArrExercise();
@@ -43,14 +52,7 @@ namespace ArrayExample
             Console.WriteLine(Math.Abs(absNumber));
 
             Console.ReadLine();
-            Console.WriteLine("Printing Integer Array");
-            ArrExercise obj = new ArrExercise();
-            int[] arrObj = obj.ReturnSampleArrayInteger();
-            foreach(int num in arrObj)
-            {
-                Console.WriteLine(num);
-            }
-            Console.ReadLine();
+            
 
             Console.WriteLine("Min Value");
             Console.WriteLine(arrObj.Min());

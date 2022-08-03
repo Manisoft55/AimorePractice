@@ -18,6 +18,9 @@ namespace FindFriend
                 if(friendName == name)
                 {
                     isMyFriend = true;
+                    //break;
+                    continue;
+                    isMyFriend = false;
                 }
             }
 
