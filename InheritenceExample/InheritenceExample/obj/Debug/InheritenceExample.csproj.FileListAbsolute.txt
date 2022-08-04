@@ -1,0 +1,8 @@
+D:\Aimore\Projects\InheritenceExample\InheritenceExample\obj\Debug\InheritenceExample.csproj.AssemblyReference.cache
+D:\Aimore\Projects\InheritenceExample\InheritenceExample\obj\Debug\InheritenceExample.csproj.SuggestedBindingRedirects.cache
+D:\Aimore\Projects\InheritenceExample\InheritenceExample\obj\Debug\InheritenceExample.csproj.CoreCompileInputs.cache
+D:\Aimore\Projects\InheritenceExample\InheritenceExample\bin\Debug\InheritenceExample.exe.config
+D:\Aimore\Projects\InheritenceExample\InheritenceExample\bin\Debug\InheritenceExample.exe
+D:\Aimore\Projects\InheritenceExample\InheritenceExample\bin\Debug\InheritenceExample.pdb
+D:\Aimore\Projects\InheritenceExample\InheritenceExample\obj\Debug\InheritenceExample.exe
+D:\Aimore\Projects\InheritenceExample\InheritenceExample\obj\Debug\InheritenceExample.pdb

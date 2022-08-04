@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6ad511d7-b3e9-443b-beda-e0c4884539ee": {
+      "ProjectGuid": "6ad511d7-b3e9-443b-beda-e0c4884539ee",
+      "DisplayName": "FindCharacterInWord",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
