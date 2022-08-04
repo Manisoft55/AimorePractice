@@ -1,0 +1,8 @@
+D:\Aimore\Projects\FindCharacterInWord\FindCharacterInWord\bin\Debug\FindCharacterInWord.exe.config
+D:\Aimore\Projects\FindCharacterInWord\FindCharacterInWord\bin\Debug\FindCharacterInWord.exe
+D:\Aimore\Projects\FindCharacterInWord\FindCharacterInWord\bin\Debug\FindCharacterInWord.pdb
+D:\Aimore\Projects\FindCharacterInWord\FindCharacterInWord\obj\Debug\FindCharacterInWord.csproj.AssemblyReference.cache
+D:\Aimore\Projects\FindCharacterInWord\FindCharacterInWord\obj\Debug\FindCharacterInWord.csproj.SuggestedBindingRedirects.cache
+D:\Aimore\Projects\FindCharacterInWord\FindCharacterInWord\obj\Debug\FindCharacterInWord.csproj.CoreCompileInputs.cache
+D:\Aimore\Projects\FindCharacterInWord\FindCharacterInWord\obj\Debug\FindCharacterInWord.exe
+D:\Aimore\Projects\FindCharacterInWord\FindCharacterInWord\obj\Debug\FindCharacterInWord.pdb

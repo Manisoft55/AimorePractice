@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fad3baa1-9401-4c26-9f50-597ec48c50cf": {
+      "ProjectGuid": "fad3baa1-9401-4c26-9f50-597ec48c50cf",
+      "DisplayName": "MethodOverloading",
+      "ColorIndex": 0
+    },
+    "1db2fc04-b37c-41ca-bf98-a2ec32dfb6eb": {
+      "ProjectGuid": "1db2fc04-b37c-41ca-bf98-a2ec32dfb6eb",
+      "DisplayName": "TestAccessModifier",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
