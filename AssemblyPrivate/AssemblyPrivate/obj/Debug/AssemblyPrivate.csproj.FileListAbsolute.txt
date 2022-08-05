@@ -1,0 +1,6 @@
+D:\Aimore\Projects\AssemblyPrivate\AssemblyPrivate\bin\Debug\AssemblyPrivate.dll
+D:\Aimore\Projects\AssemblyPrivate\AssemblyPrivate\bin\Debug\AssemblyPrivate.pdb
+D:\Aimore\Projects\AssemblyPrivate\AssemblyPrivate\obj\Debug\AssemblyPrivate.csproj.AssemblyReference.cache
+D:\Aimore\Projects\AssemblyPrivate\AssemblyPrivate\obj\Debug\AssemblyPrivate.csproj.CoreCompileInputs.cache
+D:\Aimore\Projects\AssemblyPrivate\AssemblyPrivate\obj\Debug\AssemblyPrivate.dll
+D:\Aimore\Projects\AssemblyPrivate\AssemblyPrivate\obj\Debug\AssemblyPrivate.pdb

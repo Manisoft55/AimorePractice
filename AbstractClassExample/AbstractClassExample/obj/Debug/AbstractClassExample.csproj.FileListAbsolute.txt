@@ -1,0 +1,8 @@
+D:\Aimore\Projects\AbstractClassExample\AbstractClassExample\bin\Debug\AbstractClassExample.exe.config
+D:\Aimore\Projects\AbstractClassExample\AbstractClassExample\bin\Debug\AbstractClassExample.exe
+D:\Aimore\Projects\AbstractClassExample\AbstractClassExample\bin\Debug\AbstractClassExample.pdb
+D:\Aimore\Projects\AbstractClassExample\AbstractClassExample\obj\Debug\AbstractClassExample.csproj.AssemblyReference.cache
+D:\Aimore\Projects\AbstractClassExample\AbstractClassExample\obj\Debug\AbstractClassExample.csproj.SuggestedBindingRedirects.cache
+D:\Aimore\Projects\AbstractClassExample\AbstractClassExample\obj\Debug\AbstractClassExample.csproj.CoreCompileInputs.cache
+D:\Aimore\Projects\AbstractClassExample\AbstractClassExample\obj\Debug\AbstractClassExample.exe
+D:\Aimore\Projects\AbstractClassExample\AbstractClassExample\obj\Debug\AbstractClassExample.pdb

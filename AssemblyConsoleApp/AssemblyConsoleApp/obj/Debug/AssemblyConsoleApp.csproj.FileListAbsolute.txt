@@ -1,0 +1,11 @@
+D:\Aimore\Projects\AssemblyConsoleApp\AssemblyConsoleApp\bin\Debug\AssemblyConsoleApp.exe.config
+D:\Aimore\Projects\AssemblyConsoleApp\AssemblyConsoleApp\bin\Debug\AssemblyConsoleApp.exe
+D:\Aimore\Projects\AssemblyConsoleApp\AssemblyConsoleApp\bin\Debug\AssemblyConsoleApp.pdb
+D:\Aimore\Projects\AssemblyConsoleApp\AssemblyConsoleApp\bin\Debug\AssemblyPrivate.dll
+D:\Aimore\Projects\AssemblyConsoleApp\AssemblyConsoleApp\bin\Debug\AssemblyPrivate.pdb
+D:\Aimore\Projects\AssemblyConsoleApp\AssemblyConsoleApp\obj\Debug\AssemblyConsoleApp.csproj.AssemblyReference.cache
+D:\Aimore\Projects\AssemblyConsoleApp\AssemblyConsoleApp\obj\Debug\AssemblyConsoleApp.csproj.SuggestedBindingRedirects.cache
+D:\Aimore\Projects\AssemblyConsoleApp\AssemblyConsoleApp\obj\Debug\AssemblyConsoleApp.csproj.CoreCompileInputs.cache
+D:\Aimore\Projects\AssemblyConsoleApp\AssemblyConsoleApp\obj\Debug\AssemblyConsoleApp.csproj.CopyComplete
+D:\Aimore\Projects\AssemblyConsoleApp\AssemblyConsoleApp\obj\Debug\AssemblyConsoleApp.exe
+D:\Aimore\Projects\AssemblyConsoleApp\AssemblyConsoleApp\obj\Debug\AssemblyConsoleApp.pdb
