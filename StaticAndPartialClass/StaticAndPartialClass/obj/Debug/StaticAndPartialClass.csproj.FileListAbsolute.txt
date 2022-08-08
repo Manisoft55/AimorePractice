@@ -1,0 +1,8 @@
+D:\Aimore\Projects\StaticAndPartialClass\StaticAndPartialClass\bin\Debug\StaticAndPartialClass.exe.config
+D:\Aimore\Projects\StaticAndPartialClass\StaticAndPartialClass\bin\Debug\StaticAndPartialClass.exe
+D:\Aimore\Projects\StaticAndPartialClass\StaticAndPartialClass\bin\Debug\StaticAndPartialClass.pdb
+D:\Aimore\Projects\StaticAndPartialClass\StaticAndPartialClass\obj\Debug\StaticAndPartialClass.csproj.AssemblyReference.cache
+D:\Aimore\Projects\StaticAndPartialClass\StaticAndPartialClass\obj\Debug\StaticAndPartialClass.csproj.SuggestedBindingRedirects.cache
+D:\Aimore\Projects\StaticAndPartialClass\StaticAndPartialClass\obj\Debug\StaticAndPartialClass.csproj.CoreCompileInputs.cache
+D:\Aimore\Projects\StaticAndPartialClass\StaticAndPartialClass\obj\Debug\StaticAndPartialClass.exe
+D:\Aimore\Projects\StaticAndPartialClass\StaticAndPartialClass\obj\Debug\StaticAndPartialClass.pdb

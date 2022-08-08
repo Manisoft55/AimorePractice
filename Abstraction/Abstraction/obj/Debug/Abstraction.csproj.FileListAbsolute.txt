@@ -1,0 +1,8 @@
+D:\Aimore\Projects\Abstraction\Abstraction\bin\Debug\Abstraction.exe.config
+D:\Aimore\Projects\Abstraction\Abstraction\bin\Debug\Abstraction.exe
+D:\Aimore\Projects\Abstraction\Abstraction\bin\Debug\Abstraction.pdb
+D:\Aimore\Projects\Abstraction\Abstraction\obj\Debug\Abstraction.csproj.AssemblyReference.cache
+D:\Aimore\Projects\Abstraction\Abstraction\obj\Debug\Abstraction.csproj.SuggestedBindingRedirects.cache
+D:\Aimore\Projects\Abstraction\Abstraction\obj\Debug\Abstraction.csproj.CoreCompileInputs.cache
+D:\Aimore\Projects\Abstraction\Abstraction\obj\Debug\Abstraction.exe
+D:\Aimore\Projects\Abstraction\Abstraction\obj\Debug\Abstraction.pdb

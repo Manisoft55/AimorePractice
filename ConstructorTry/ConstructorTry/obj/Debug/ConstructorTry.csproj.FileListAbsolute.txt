@@ -1,0 +1,8 @@
+D:\Aimore\Projects\ConstructorTry\ConstructorTry\bin\Debug\ConstructorTry.exe.config
+D:\Aimore\Projects\ConstructorTry\ConstructorTry\bin\Debug\ConstructorTry.exe
+D:\Aimore\Projects\ConstructorTry\ConstructorTry\bin\Debug\ConstructorTry.pdb
+D:\Aimore\Projects\ConstructorTry\ConstructorTry\obj\Debug\ConstructorTry.csproj.AssemblyReference.cache
+D:\Aimore\Projects\ConstructorTry\ConstructorTry\obj\Debug\ConstructorTry.csproj.SuggestedBindingRedirects.cache
+D:\Aimore\Projects\ConstructorTry\ConstructorTry\obj\Debug\ConstructorTry.csproj.CoreCompileInputs.cache
+D:\Aimore\Projects\ConstructorTry\ConstructorTry\obj\Debug\ConstructorTry.exe
+D:\Aimore\Projects\ConstructorTry\ConstructorTry\obj\Debug\ConstructorTry.pdb
