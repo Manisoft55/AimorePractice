@@ -1,0 +1,8 @@
+D:\Aimore\Projects\ConstructorExample\ConstructorExample\bin\Debug\ConstructorExample.exe.config
+D:\Aimore\Projects\ConstructorExample\ConstructorExample\bin\Debug\ConstructorExample.exe
+D:\Aimore\Projects\ConstructorExample\ConstructorExample\bin\Debug\ConstructorExample.pdb
+D:\Aimore\Projects\ConstructorExample\ConstructorExample\obj\Debug\ConstructorExample.csproj.AssemblyReference.cache
+D:\Aimore\Projects\ConstructorExample\ConstructorExample\obj\Debug\ConstructorExample.csproj.SuggestedBindingRedirects.cache
+D:\Aimore\Projects\ConstructorExample\ConstructorExample\obj\Debug\ConstructorExample.csproj.CoreCompileInputs.cache
+D:\Aimore\Projects\ConstructorExample\ConstructorExample\obj\Debug\ConstructorExample.exe
+D:\Aimore\Projects\ConstructorExample\ConstructorExample\obj\Debug\ConstructorExample.pdb

@@ -1,0 +1,8 @@
+D:\Aimore\Projects\POCOClass\POCOClass\bin\Debug\POCOClass.exe.config
+D:\Aimore\Projects\POCOClass\POCOClass\bin\Debug\POCOClass.exe
+D:\Aimore\Projects\POCOClass\POCOClass\bin\Debug\POCOClass.pdb
+D:\Aimore\Projects\POCOClass\POCOClass\obj\Debug\POCOClass.csproj.AssemblyReference.cache
+D:\Aimore\Projects\POCOClass\POCOClass\obj\Debug\POCOClass.csproj.SuggestedBindingRedirects.cache
+D:\Aimore\Projects\POCOClass\POCOClass\obj\Debug\POCOClass.csproj.CoreCompileInputs.cache
+D:\Aimore\Projects\POCOClass\POCOClass\obj\Debug\POCOClass.exe
+D:\Aimore\Projects\POCOClass\POCOClass\obj\Debug\POCOClass.pdb

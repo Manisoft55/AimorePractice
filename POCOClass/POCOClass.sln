@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POCOClass", "POCOClass\POCOClass.csproj", "{D0DB74B0-857C-4012-8030-016A3BA2BFBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0DB74B0-857C-4012-8030-016A3BA2BFBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0DB74B0-857C-4012-8030-016A3BA2BFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0DB74B0-857C-4012-8030-016A3BA2BFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0DB74B0-857C-4012-8030-016A3BA2BFBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4104AE7C-74FE-4BC3-92AE-FCDEB81C57CF}
+	EndGlobalSection
+EndGlobal

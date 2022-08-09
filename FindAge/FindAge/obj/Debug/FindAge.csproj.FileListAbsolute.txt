@@ -1,0 +1,8 @@
+D:\Aimore\Projects\FindAge\FindAge\bin\Debug\FindAge.exe.config
+D:\Aimore\Projects\FindAge\FindAge\bin\Debug\FindAge.exe
+D:\Aimore\Projects\FindAge\FindAge\bin\Debug\FindAge.pdb
+D:\Aimore\Projects\FindAge\FindAge\obj\Debug\FindAge.csproj.AssemblyReference.cache
+D:\Aimore\Projects\FindAge\FindAge\obj\Debug\FindAge.csproj.SuggestedBindingRedirects.cache
+D:\Aimore\Projects\FindAge\FindAge\obj\Debug\FindAge.csproj.CoreCompileInputs.cache
+D:\Aimore\Projects\FindAge\FindAge\obj\Debug\FindAge.exe
+D:\Aimore\Projects\FindAge\FindAge\obj\Debug\FindAge.pdb

@@ -1,0 +1,8 @@
+D:\Aimore\Projects\InterfaceExample\InterfaceExample\bin\Debug\InterfaceExample.exe.config
+D:\Aimore\Projects\InterfaceExample\InterfaceExample\bin\Debug\InterfaceExample.exe
+D:\Aimore\Projects\InterfaceExample\InterfaceExample\bin\Debug\InterfaceExample.pdb
+D:\Aimore\Projects\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.csproj.AssemblyReference.cache
+D:\Aimore\Projects\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.csproj.SuggestedBindingRedirects.cache
+D:\Aimore\Projects\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.csproj.CoreCompileInputs.cache
+D:\Aimore\Projects\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.exe
+D:\Aimore\Projects\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.pdb
