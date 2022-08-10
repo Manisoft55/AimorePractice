@@ -1,0 +1,8 @@
+D:\Aimore\Projects\EnumFileExceptions\EnumFileExceptions\bin\Debug\EnumFileExceptions.exe.config
+D:\Aimore\Projects\EnumFileExceptions\EnumFileExceptions\bin\Debug\EnumFileExceptions.exe
+D:\Aimore\Projects\EnumFileExceptions\EnumFileExceptions\bin\Debug\EnumFileExceptions.pdb
+D:\Aimore\Projects\EnumFileExceptions\EnumFileExceptions\obj\Debug\EnumFileExceptions.csproj.AssemblyReference.cache
+D:\Aimore\Projects\EnumFileExceptions\EnumFileExceptions\obj\Debug\EnumFileExceptions.csproj.SuggestedBindingRedirects.cache
+D:\Aimore\Projects\EnumFileExceptions\EnumFileExceptions\obj\Debug\EnumFileExceptions.csproj.CoreCompileInputs.cache
+D:\Aimore\Projects\EnumFileExceptions\EnumFileExceptions\obj\Debug\EnumFileExceptions.exe
+D:\Aimore\Projects\EnumFileExceptions\EnumFileExceptions\obj\Debug\EnumFileExceptions.pdb

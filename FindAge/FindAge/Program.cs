@@ -14,6 +14,9 @@ namespace FindAge
             DateTime dob = DateTime.Parse(Console.ReadLine());
             var result = DateTime.Now - dob;
             Console.WriteLine(result.Days + " Days");
+            Console.WriteLine(result.Days/365 + " Years");
+            Console.WriteLine(((result.Days % 365) / 12) + " Months");
+            Console.WriteLine(((result.Days % 365) % 7) + " Days");
             Console.ReadLine();
         }
     }

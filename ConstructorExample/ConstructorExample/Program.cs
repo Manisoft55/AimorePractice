@@ -22,6 +22,8 @@ namespace ConstructorExample
             Console.WriteLine(copyOne.age);
             Console.ReadLine();
 
+            int i = 0;
+            i = 10;
             Console.WriteLine("StaticConstructorClass");
             StaticConstructorClass staticConstructorClass = new StaticConstructorClass();
             StaticConstructorClass staticConstructorClass1 = new StaticConstructorClass();
