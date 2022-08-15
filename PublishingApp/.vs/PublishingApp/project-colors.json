@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0ff0237a-49b6-4da6-9a7a-1e1eac5e23ad": {
+      "ProjectGuid": "0ff0237a-49b6-4da6-9a7a-1e1eac5e23ad",
+      "DisplayName": "PublishingApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

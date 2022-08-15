@@ -1,0 +1,7 @@
+D:\Aimore\Projects\PublishingApp\PublishingApp\bin\Release\PublishingApp.exe.config
+D:\Aimore\Projects\PublishingApp\PublishingApp\bin\Release\PublishingApp.exe
+D:\Aimore\Projects\PublishingApp\PublishingApp\bin\Release\PublishingApp.pdb
+D:\Aimore\Projects\PublishingApp\PublishingApp\obj\Release\PublishingApp.csproj.SuggestedBindingRedirects.cache
+D:\Aimore\Projects\PublishingApp\PublishingApp\obj\Release\PublishingApp.csproj.CoreCompileInputs.cache
+D:\Aimore\Projects\PublishingApp\PublishingApp\obj\Release\PublishingApp.exe
+D:\Aimore\Projects\PublishingApp\PublishingApp\obj\Release\PublishingApp.pdb

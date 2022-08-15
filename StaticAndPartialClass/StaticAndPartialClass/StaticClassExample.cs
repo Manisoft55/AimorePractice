@@ -20,6 +20,11 @@ namespace StaticAndPartialClass
         {
             return string.Empty;
         }
+
+        internal static string ConvertToString(this int val)
+        {
+            return Convert.ToString(val);
+        }
     }
 
     internal class StaticClass

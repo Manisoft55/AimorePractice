@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model Employee  
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    @{
+        var price = 101;
+    }
+
+    @{
+        if(price == 100)
+        {
+            <p>It's hundred</p>
+        }
+        else
+        {
+            <p>It's not hundred</p>
+        }
+    }
+    
+    
+    <h2>Employee Detail:</h2>  
+    <ul>  
+        <li>Student Id: @Model.EmployeeId</li>  
+        <li>Student Name: @Model.EmployeeName</li>  
+        <li>Age: @Model.Age</li>  
+    </ul>  
+</div>

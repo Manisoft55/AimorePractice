@@ -10,6 +10,9 @@ namespace StaticAndPartialClass
     {
         static void Main(string[] args)
         {
+            var res = StaticClassExample.ConvertToString(10);
+            int val = 100;
+            string resultVal = val.ConvertToString();
             Console.WriteLine("Please enter the number for " + StaticClassExample.AdditionLabel);
             float fltNumber = float.Parse(Console.ReadLine());
             var result = StaticClassExample.AddNumberWithPiValue(fltNumber);
