@@ -36,3 +36,5 @@ D:\Aimore\Projects\MVCApplication\MVCApplication\obj\Debug\netcoreapp3.1\MVCAppl
 D:\Aimore\Projects\MVCApplication\MVCApplication\obj\Debug\netcoreapp3.1\MVCApplication.csproj.CopyComplete
 D:\Aimore\Projects\MVCApplication\MVCApplication\obj\Debug\netcoreapp3.1\Razor\Views\Learning\Index.cshtml.g.cs
 D:\Aimore\Projects\MVCApplication\MVCApplication\obj\Debug\netcoreapp3.1\Razor\Views\Learning\MontlyLearning.cshtml.g.cs
+D:\Aimore\Projects\MVCApplication\MVCApplication\obj\Debug\netcoreapp3.1\Razor\Views\EmployeeDetails\Index.cshtml.g.cs
+D:\Aimore\Projects\MVCApplication\MVCApplication\obj\Debug\netcoreapp3.1\Razor\Views\InventoryManagement\Index.cshtml.g.cs
