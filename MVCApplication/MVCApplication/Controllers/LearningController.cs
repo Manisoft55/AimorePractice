@@ -13,6 +13,7 @@ namespace MVCApplication.Controllers
 
         public IActionResult EmptyActionMethod()
         {
+
             return new EmptyResult();
         }
 

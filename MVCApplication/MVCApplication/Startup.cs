@@ -33,6 +33,7 @@ namespace MVCApplication
             {
                 app.UseDeveloperExceptionPage();
             }
+
             else
             {
                 app.UseExceptionHandler("/Home/Error");
