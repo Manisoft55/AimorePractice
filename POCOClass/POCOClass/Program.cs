@@ -56,9 +56,9 @@ namespace POCOClass
 
             EmployeeDetails employee = new EmployeeDetails();
             employee.EmpName = "Rajesh";
-            Console.WriteLine(employee.EmpName);
+            //Console.WriteLine(employee.EmpName);
             ReferenceType(employee);
-            Console.WriteLine(employee.EmpName);
+            //Console.WriteLine(employee.EmpName);
             Console.ReadLine();
 
             Console.WriteLine("POCO Class");

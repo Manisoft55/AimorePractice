@@ -8,7 +8,13 @@ namespace POCOClass
 {
     internal class EmployeeDetails
     {
-        public string EmpName { get; set; }
+        private string _empName;
+        public string EmpName {
+            set
+            {
+                _empName = value;
+            }
+        }
         public int EmpAge { get; set; }
         public string EmpManager { get; set; }
         public string EmpSalary { get; set; }

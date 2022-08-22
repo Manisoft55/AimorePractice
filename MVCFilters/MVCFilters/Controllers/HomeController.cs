@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using MVCFilters.Filters;
 using MVCFilters.Models;
@@ -27,11 +28,14 @@ namespace MVCFilters.Controllers
 
         public IActionResult Privacy()
         {
+            HttpContext.Session.SetString("username", "rajesh");
+            TempData["username"] = "rajesh";
+            return RedirectToAction("ReturnResult");
             return View();
         }
 
         [CustomAuthorizationFilter]
-        [CustomResourceFilterAttribute]
+        [CustomResourceFilter]
         [RoleAccess]
         [CustomResultFilter]
         public IActionResult ReturnResult()
