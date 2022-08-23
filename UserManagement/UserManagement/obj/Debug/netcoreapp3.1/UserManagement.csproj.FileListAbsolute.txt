@@ -110,3 +110,4 @@ D:\Aimore\Projects\UserManagement\UserManagement\obj\Debug\netcoreapp3.1\UserMan
 D:\Aimore\Projects\UserManagement\UserManagement\obj\Debug\netcoreapp3.1\UserManagement.genruntimeconfig.cache
 D:\Aimore\Projects\UserManagement\UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\UserInfo\UserRegistration.cshtml.g.cs
 D:\Aimore\Projects\UserManagement\UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\UserInfo\UserCreation.cshtml.g.cs
+D:\Aimore\Projects\UserManagement\UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs

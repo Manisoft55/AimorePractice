@@ -1,3 +1,4 @@
+using Auth.Filters;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -32,6 +33,10 @@ namespace Auth
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
             services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie();
+            services.AddMvc(options =>
+            {
+                options.Filters.Add(typeof(CustomAuthenticationFilter));
+            });
             services.AddHttpContextAccessor();
             services.AddControllersWithViews();
             
