@@ -5,6 +5,9 @@ using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;
+using Microsoft.AspNetCore.Http;
+using System;
+using System.Linq;
 
 namespace Auth.Controllers
 {
@@ -14,6 +17,18 @@ namespace Auth.Controllers
         
         public IActionResult Login()
         {
+            // Set and Get cookies
+            CookieOptions cookieOptions = new CookieOptions();
+            cookieOptions.Expires = new DateTimeOffset(DateTime.Now.AddDays(7));
+
+            HttpContext.Response.Cookies.Append("first_request", DateTime.Now.ToString(), cookieOptions);
+            var setCookieHeaders = HttpContext.Response.GetTypedHeaders().SetCookie;
+
+            // We assume only one cookie is found. You could loop over multiple matches instead.
+            // setCookieHeaders may be null if response doesn't contain set-cookie headers
+            var cookie = setCookieHeaders?.FirstOrDefault(x => x.Name == "first_request");
+
+            
             return View();
         }
 

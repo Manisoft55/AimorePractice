@@ -33,7 +33,7 @@ namespace UserManagement.Models
                 //Create the identity for the user  
                 identity = new ClaimsIdentity(new[] {
                     new Claim(ClaimTypes.Name, userName),
-                    new Claim(ClaimTypes.Role, "Admin")
+                    new Claim(ClaimTypes.Role, "Owner")
                 }, CookieAuthenticationDefaults.AuthenticationScheme);
 
                 isAuthenticated = true;
@@ -56,18 +56,17 @@ namespace UserManagement.Models
 
                 var login = HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, principal);
 
-                return RedirectToAction("Index", "Home");
+                return RedirectToAction("Index", "UserInfo");
             }
             else
             {
                 ViewBag.ErrorMessage = "Please enter valid user name and password";
             }
-            
+
 
             return View();
         }
 
-        [HttpPost]
         public IActionResult Logout()
         {
             var login = HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
