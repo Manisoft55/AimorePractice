@@ -1,0 +1,8 @@
+D:\Aimore\Projects\DotNetInterviewProgram\DotNetInterviewProgram\bin\Debug\DotNetInterviewProgram.exe.config
+D:\Aimore\Projects\DotNetInterviewProgram\DotNetInterviewProgram\bin\Debug\DotNetInterviewProgram.exe
+D:\Aimore\Projects\DotNetInterviewProgram\DotNetInterviewProgram\bin\Debug\DotNetInterviewProgram.pdb
+D:\Aimore\Projects\DotNetInterviewProgram\DotNetInterviewProgram\obj\Debug\DotNetInterviewProgram.csproj.AssemblyReference.cache
+D:\Aimore\Projects\DotNetInterviewProgram\DotNetInterviewProgram\obj\Debug\DotNetInterviewProgram.csproj.SuggestedBindingRedirects.cache
+D:\Aimore\Projects\DotNetInterviewProgram\DotNetInterviewProgram\obj\Debug\DotNetInterviewProgram.csproj.CoreCompileInputs.cache
+D:\Aimore\Projects\DotNetInterviewProgram\DotNetInterviewProgram\obj\Debug\DotNetInterviewProgram.exe
+D:\Aimore\Projects\DotNetInterviewProgram\DotNetInterviewProgram\obj\Debug\DotNetInterviewProgram.pdb
