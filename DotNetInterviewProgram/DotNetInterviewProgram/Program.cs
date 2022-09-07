@@ -19,9 +19,9 @@ namespace DotNetInterviewProgram
                 int result = 0;
                 for(int i = 0; i < numList.Length; i++)
                 {
-                    result =  result + Convert.ToInt32(numList[i]);
+                    result =  result + Convert.ToInt32(numList[i].ToString());
                 }
-                Console.WriteLine("Result is : " + result);
+                Console.WriteLine("Result is : " + string.Join(" - ", numList) + " : " + result);
                 Console.ReadLine();
             }
             else
