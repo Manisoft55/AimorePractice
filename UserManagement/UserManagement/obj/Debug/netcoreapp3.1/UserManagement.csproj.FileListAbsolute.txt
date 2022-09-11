@@ -111,3 +111,9 @@ D:\Aimore\Projects\UserManagement\UserManagement\obj\Debug\netcoreapp3.1\UserMan
 D:\Aimore\Projects\UserManagement\UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\UserInfo\UserRegistration.cshtml.g.cs
 D:\Aimore\Projects\UserManagement\UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\UserInfo\UserCreation.cshtml.g.cs
 D:\Aimore\Projects\UserManagement\UserManagement\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Aimore\Projects\UserManagement\UserManagement\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Aimore\Projects\UserManagement\UserManagement\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Aimore\Projects\UserManagement\UserManagement\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Aimore\Projects\UserManagement\UserManagement\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Aimore\Projects\UserManagement\UserManagement\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Aimore\Projects\UserManagement\UserManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
