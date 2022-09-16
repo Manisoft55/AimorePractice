@@ -14,8 +14,8 @@ namespace UserManagement.Controllers
     {
         public IActionResult Index()
         {
-            string sql = "select * from employees where employee_id =@empid";
-            string sqlUpdate = "update employees set email = @emailId where employee_id = @empid";
+            string sql = "select * from employees where email =@emailId";
+            //string sqlUpdate = " update employees set email = " + "'emailidf@gmail.com'; delete from employees; select * from employees " + " where employee_id = " + Convert.ToString(101);
             SqlConnection connection = new SqlConnection("Data Source=MSP-LAPTOP;Initial Catalog=InstituteCmd;persist security info=True; Integrated Security = SSPI;");
             SqlConnection connectionOne = new SqlConnection("Data Source=MSP-LAPTOP;Initial Catalog=InstituteCmd;persist security info=True; Integrated Security = SSPI;");
 
@@ -24,9 +24,9 @@ namespace UserManagement.Controllers
             try
             {
                 connection.Open();
-                SqlCommand command = new SqlCommand(sqlUpdate, connection);
-                command.Parameters.Add(new SqlParameter("empid", 101));
-                command.Parameters.Add(new SqlParameter("emailId", "emailidfrommvc@gmail.com"));
+                SqlCommand command = new SqlCommand(sql, connection);
+                //command.Parameters.Add(new SqlParameter("empid", 101));
+                command.Parameters.Add(new SqlParameter("emailId", "emailidf@gmail.com; delete from employees;"));
                 command.ExecuteNonQuery();
                 //adapter.SelectCommand = command;
                 //adapter.Fill(ds);
