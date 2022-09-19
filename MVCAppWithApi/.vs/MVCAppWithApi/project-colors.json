@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5c22daae-ba23-46c7-88d5-47b14d2a123a": {
+      "ProjectGuid": "5c22daae-ba23-46c7-88d5-47b14d2a123a",
+      "DisplayName": "MVCAppWithApi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

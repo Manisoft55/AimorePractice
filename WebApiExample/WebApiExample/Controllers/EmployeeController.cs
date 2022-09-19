@@ -84,6 +84,87 @@ namespace WebApiExample.Controllers
 
         }
 
+
+
+        //[HttpPost]
+        //[Route("CreateEmployee")]
+        //public int CreateEmployee([FromBody]EmployeeInfo employeeInfo)
+        //{
+        //    string sql = "[dbo].[usp_InsertEmployee]";
+        //    SqlConnection connection = new SqlConnection("Data Source=MSP-LAPTOP;Initial Catalog=InstituteCmd;persist security info=True; Integrated Security = SSPI;");
+
+        //    connection.Open();
+        //    SqlCommand command = new SqlCommand(sql, connection);
+        //    command.CommandType = CommandType.StoredProcedure;
+        //    command.Parameters.Add(new SqlParameter("@first_name", employeeInfo.first_name));
+        //    command.Parameters.Add(new SqlParameter("@last_name", employeeInfo.last_name));
+        //    command.Parameters.Add(new SqlParameter("@email", employeeInfo.email));
+        //    command.Parameters.Add(new SqlParameter("@phone_number", employeeInfo.phone_number));
+        //    command.Parameters.Add(new SqlParameter("@hire_date", employeeInfo.hire_date));
+        //    command.Parameters.Add(new SqlParameter("@job_id", employeeInfo.job_id));            
+        //    command.Parameters.Add(new SqlParameter("@salary", employeeInfo.salary));
+        //    command.Parameters.Add(new SqlParameter("@manager_id", employeeInfo.manager_id));
+        //    command.Parameters.Add(new SqlParameter("@department_id", employeeInfo.department_id));
+        //    SqlParameter outputIdParam = new SqlParameter("@EmpId", SqlDbType.Int)
+        //    {
+        //        Direction = ParameterDirection.Output
+        //    };
+
+        //    command.Parameters.Add(outputIdParam);
+        //    command.ExecuteNonQuery();
+
+        //    var empId = int.Parse(outputIdParam.Value.ToString());
+        //    command.Dispose();
+        //    connection.Close();
+
+        //    return empId;
+
+        //}
+
+
+        //[HttpPut]
+        //[Route("UpdateEmployee")]
+        //public void UpdateEmployee([FromBody] EmployeeInfo employeeInfo)
+        //{
+        //    string sql = "[dbo].[usp_UpdatetEmployee]";
+        //    SqlConnection connection = new SqlConnection("Data Source=MSP-LAPTOP;Initial Catalog=InstituteCmd;persist security info=True; Integrated Security = SSPI;");
+
+        //    connection.Open();
+        //    SqlCommand command = new SqlCommand(sql, connection);
+        //    command.CommandType = CommandType.StoredProcedure;
+        //    command.Parameters.Add(new SqlParameter("@employee_id", employeeInfo.employee_id));
+        //    command.Parameters.Add(new SqlParameter("@first_name", employeeInfo.first_name));
+        //    command.Parameters.Add(new SqlParameter("@last_name", employeeInfo.last_name));
+        //    command.Parameters.Add(new SqlParameter("@email", employeeInfo.email));
+        //    command.Parameters.Add(new SqlParameter("@phone_number", employeeInfo.phone_number));
+        //    command.Parameters.Add(new SqlParameter("@hire_date", employeeInfo.hire_date));
+        //    command.Parameters.Add(new SqlParameter("@job_id", employeeInfo.job_id));
+        //    command.Parameters.Add(new SqlParameter("@salary", employeeInfo.salary));
+        //    command.Parameters.Add(new SqlParameter("@manager_id", employeeInfo.manager_id));
+        //    command.Parameters.Add(new SqlParameter("@department_id", employeeInfo.department_id));
+        //    command.ExecuteNonQuery();
+        //    command.Dispose();
+        //    connection.Close();
+
+        //}
+
+
+        //[HttpDelete]
+        //[Route("DeleteEmployee")]
+        //public void DeleteEmployee(int empId)
+        //{
+        //    string sql = "[dbo].[usp_DeleteEmployee]";
+        //    SqlConnection connection = new SqlConnection("Data Source=MSP-LAPTOP;Initial Catalog=InstituteCmd;persist security info=True; Integrated Security = SSPI;");
+
+        //    connection.Open();
+        //    SqlCommand command = new SqlCommand(sql, connection);
+        //    command.CommandType = CommandType.StoredProcedure;
+        //    command.Parameters.Add(new SqlParameter("@employee_id", empId));
+        //    command.ExecuteNonQuery();
+        //    command.Dispose();
+        //    connection.Close();
+
+        //}
         //[HttpGet]
         //public List<EmployeeInfo> Get(int empId)
         //{

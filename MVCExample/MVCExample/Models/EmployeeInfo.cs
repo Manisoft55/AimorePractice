@@ -18,5 +18,9 @@ namespace MVCExample.Models
         public DateTime hire_date { get; set; }
 
         public string phone_number { get; set; }
+
+        public int? manager_id { get; set; }
+
+        public int? department_id { get; set; }
     }
 }

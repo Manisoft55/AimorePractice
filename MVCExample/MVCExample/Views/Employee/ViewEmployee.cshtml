@@ -7,8 +7,15 @@
 <h1>View</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="CreateEmployee">Create New</a>
 </p>
+<div>
+    @using(Html.BeginForm("SelectEmployee", "Employee", FormMethod.Get)){
+        @Html.TextBox("EmployeeId")
+        <input type = "submit"  name = "submit"  value = "Search" /> 
+    }
+
+</div>
 <table class="table">
     <thead>
         <tr>
@@ -40,38 +47,39 @@
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.employee_id)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.first_name)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.last_name)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.email)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.job_id)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.salary)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.hire_date)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.phone_number)
-            </td>
-            <td>
-                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
-            </td>
-        </tr>
-}
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.employee_id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.first_name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.last_name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.job_id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.salary)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.hire_date)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.phone_number)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "UpdateEmployee", item) |
+                    @Html.ActionLink("Details", "UpdateEmployee", item) |
+                    @Html.ActionLink("Delete", "DeleteEmployee", new {  empId=item.employee_id  })
+                </td>
+            </tr>
+        }
     </tbody>
 </table>

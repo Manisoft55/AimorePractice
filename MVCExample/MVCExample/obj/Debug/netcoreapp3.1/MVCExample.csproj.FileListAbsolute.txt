@@ -108,3 +108,6 @@ D:\Aimore\Projects\MVCExample\MVCExample\obj\Debug\netcoreapp3.1\MVCExample.dll
 D:\Aimore\Projects\MVCExample\MVCExample\obj\Debug\netcoreapp3.1\MVCExample.pdb
 D:\Aimore\Projects\MVCExample\MVCExample\obj\Debug\netcoreapp3.1\MVCExample.genruntimeconfig.cache
 D:\Aimore\Projects\MVCExample\MVCExample\obj\Debug\netcoreapp3.1\Razor\Views\Employee\ViewEmployee.cshtml.g.cs
+D:\Aimore\Projects\MVCExample\MVCExample\obj\Debug\netcoreapp3.1\Razor\Views\Employee\SelectEmployee.cshtml.g.cs
+D:\Aimore\Projects\MVCExample\MVCExample\obj\Debug\netcoreapp3.1\Razor\Views\Employee\CreateEmployee.cshtml.g.cs
+D:\Aimore\Projects\MVCExample\MVCExample\obj\Debug\netcoreapp3.1\Razor\Views\Employee\UpdateEmployee.cshtml.g.cs
