@@ -84,6 +84,35 @@ namespace WebApiExample.Controllers
 
         }
 
+        [HttpPost]
+        [Route("CreateEmployee")]
+        public int CreateEmployee(EmployeeInfo employeeInfo)
+        {
+            string procedureName = "[dbo].[CreateEmployee]";
+            SqlConnection connection = new SqlConnection("Data Source=MSP-LAPTOP;Initial Catalog=InstituteCmd;persist security info=True; Integrated Security = SSPI;");
+            SqlCommand command = new SqlCommand(procedureName, connection);
+            command.CommandType = CommandType.StoredProcedure;
+            command.Parameters.Add(new SqlParameter("@first_name", employeeInfo.first_name));
+            command.Parameters.Add(new SqlParameter("@last_name", employeeInfo.last_name));
+            command.Parameters.Add(new SqlParameter("@hire_date", employeeInfo.hire_date));
+            command.Parameters.Add(new SqlParameter("@salary", employeeInfo.salary));
+            command.Parameters.Add(new SqlParameter("@email", employeeInfo.email));
+            command.Parameters.Add(new SqlParameter("@department_id", employeeInfo.department_id));
+            command.Parameters.Add(new SqlParameter("@manager_id", employeeInfo.manager_id));
+            command.Parameters.Add(new SqlParameter("@phone_number", employeeInfo.phone_number));
+            command.Parameters.Add(new SqlParameter("@job_id", employeeInfo.job_id));
+
+            var empIdParam = new SqlParameter("@empid", SqlDbType.Int) { Direction = ParameterDirection.Output };
+            command.Parameters.Add(empIdParam);
+            connection.Open();
+            command.ExecuteNonQuery();
+            connection.Close();
+            var empId = Convert.ToInt32(empIdParam.Value);
+            return empId;
+        }
+
+
+
 
 
         //[HttpPost]

@@ -7,6 +7,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Net.Http;
+using System.Text;
 using System.Threading.Tasks;
 
 namespace MVCAppWithApi.Controllers
@@ -46,6 +47,21 @@ namespace MVCAppWithApi.Controllers
             var responseArray = response.Content.ReadAsStringAsync().Result;
             List<EmployeeInfo> employees = JsonConvert.DeserializeObject<List<EmployeeInfo>>(responseArray);
             return View(employees[0]);
+        }
+
+        public IActionResult CreateEmployee()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult CreateEmployee(EmployeeInfo employeeInfo)
+        {
+            HttpClient httpClient = new HttpClient();
+            var inputContent = new StringContent(JsonConvert.SerializeObject(employeeInfo), Encoding.UTF8, "application/json");
+            var response = httpClient.PostAsync("https://localhost:44304/Employee/CreateEmployee", inputContent).Result;
+            var empId = response.Content.ReadAsStringAsync().Result;
+            return RedirectToAction("EmployeeList");
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
