@@ -79,9 +79,9 @@
                 @Html.DisplayFor(modelItem => item.department_id)
             </td>
             <td>
-                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Update Employee", "UpdateEmployee", new { empid=item.employee_id }) |
                 @Html.ActionLink("View Employee", "ViewEmployee", new { empid=item.employee_id }) |
-                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                @Html.ActionLink("Delete Employee", "DeleteEmployee", new { empid=item.employee_id })
             </td>
         </tr>
 }

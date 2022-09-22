@@ -64,6 +64,31 @@ namespace MVCAppWithApi.Controllers
             return RedirectToAction("EmployeeList");
         }
 
+        public IActionResult UpdateEmployee(int empid)
+        {
+            HttpClient httpClient = new HttpClient();
+            var response = httpClient.GetAsync("https://localhost:44304/Employee/SelectEmployee?employeeId=" + empid).Result;
+            var responseArray = response.Content.ReadAsStringAsync().Result;
+            List<EmployeeInfo> employees = JsonConvert.DeserializeObject<List<EmployeeInfo>>(responseArray);
+            return View(employees[0]);
+        }
+
+        [HttpPost]
+        public IActionResult UpdateEmployee(EmployeeInfo employeeInfo)
+        {
+            HttpClient httpClient = new HttpClient();
+            var updatedContent = new StringContent(JsonConvert.SerializeObject(employeeInfo), Encoding.UTF8, "application/json");
+            var response = httpClient.PutAsync("https://localhost:44304/employee/UpdateEmployee", updatedContent).Result;
+            return RedirectToAction("EmployeeList");
+        }
+
+        public IActionResult DeleteEmployee(int empid)
+        {
+            HttpClient httpClient = new HttpClient();
+            var response = httpClient.DeleteAsync("https://localhost:44304/Employee/DeleteEmployee?empId=" + empid).Result;           
+            return RedirectToAction("EmployeeList");
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

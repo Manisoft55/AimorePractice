@@ -110,3 +110,4 @@ D:\Aimore\Projects\MVCAppWithApi\MVCAppWithApi\obj\Debug\netcoreapp3.1\MVCAppWit
 D:\Aimore\Projects\MVCAppWithApi\MVCAppWithApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\EmployeeList.cshtml.g.cs
 D:\Aimore\Projects\MVCAppWithApi\MVCAppWithApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\ViewEmployee.cshtml.g.cs
 D:\Aimore\Projects\MVCAppWithApi\MVCAppWithApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\CreateEmployee.cshtml.g.cs
+D:\Aimore\Projects\MVCAppWithApi\MVCAppWithApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\UpdateEmployee.cshtml.g.cs
