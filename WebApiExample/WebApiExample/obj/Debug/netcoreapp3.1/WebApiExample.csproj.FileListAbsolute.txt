@@ -25,3 +25,8 @@ D:\Aimore\Projects\WebApiExample\WebApiExample\obj\Debug\netcoreapp3.1\WebApiExa
 D:\Aimore\Projects\WebApiExample\WebApiExample\obj\Debug\netcoreapp3.1\WebApiExample.pdb
 D:\Aimore\Projects\WebApiExample\WebApiExample\obj\Debug\netcoreapp3.1\WebApiExample.genruntimeconfig.cache
 D:\Aimore\Projects\WebApiExample\WebApiExample\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Aimore\Projects\WebApiExample\WebApiExample\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Aimore\Projects\WebApiExample\WebApiExample\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Aimore\Projects\WebApiExample\WebApiExample\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Aimore\Projects\WebApiExample\WebApiExample\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Aimore\Projects\WebApiExample\WebApiExample\obj\Debug\netcoreapp3.1\WebApiExample.MvcApplicationPartsAssemblyInfo.cs
