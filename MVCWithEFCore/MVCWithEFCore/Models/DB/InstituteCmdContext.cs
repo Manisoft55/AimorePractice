@@ -36,41 +36,41 @@ namespace MVCWithEFCore.Models.DB
         //    {
         //        entity.ToTable("employees");
 
-        //        entity.Property(e => e.EmployeeId).HasColumnName("employee_id");
+        //        entity.Property(e => e.employee_id).HasColumnName("employee_id");
 
-        //        entity.Property(e => e.DepartmentId).HasColumnName("department_id");
+        //        entity.Property(e => e.department_id).HasColumnName("department_id");
 
-        //        entity.Property(e => e.Email)
+        //        entity.Property(e => e.email)
         //            .IsRequired()
         //            .HasMaxLength(100)
         //            .IsUnicode(false)
         //            .HasColumnName("email");
 
-        //        entity.Property(e => e.FirstName)
+        //        entity.Property(e => e.first_name)
         //            .HasMaxLength(20)
         //            .IsUnicode(false)
         //            .HasColumnName("first_name");
 
-        //        entity.Property(e => e.HireDate)
+        //        entity.Property(e => e.hire_date)
         //            .HasColumnType("date")
         //            .HasColumnName("hire_date");
 
-        //        entity.Property(e => e.JobId).HasColumnName("job_id");
+        //        entity.Property(e => e.job_id).HasColumnName("job_id");
 
-        //        entity.Property(e => e.LastName)
+        //        entity.Property(e => e.last_name)
         //            .IsRequired()
         //            .HasMaxLength(25)
         //            .IsUnicode(false)
         //            .HasColumnName("last_name");
 
-        //        entity.Property(e => e.ManagerId).HasColumnName("manager_id");
+        //        entity.Property(e => e.manager_id).HasColumnName("manager_id");
 
-        //        entity.Property(e => e.PhoneNumber)
+        //        entity.Property(e => e.phone_number)
         //            .HasMaxLength(20)
         //            .IsUnicode(false)
         //            .HasColumnName("phone_number");
 
-        //        entity.Property(e => e.Salary)
+        //        entity.Property(e => e.salary)
         //            .HasColumnType("decimal(8, 2)")
         //            .HasColumnName("salary");
         //    });
