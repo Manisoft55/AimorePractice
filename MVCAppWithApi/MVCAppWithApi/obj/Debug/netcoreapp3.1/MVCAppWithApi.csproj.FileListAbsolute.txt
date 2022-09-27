@@ -112,3 +112,6 @@ D:\Aimore\Projects\MVCAppWithApi\MVCAppWithApi\obj\Debug\netcoreapp3.1\Razor\Vie
 D:\Aimore\Projects\MVCAppWithApi\MVCAppWithApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\CreateEmployee.cshtml.g.cs
 D:\Aimore\Projects\MVCAppWithApi\MVCAppWithApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\UpdateEmployee.cshtml.g.cs
 D:\Aimore\Projects\MVCAppWithApi\MVCAppWithApi\obj\Debug\netcoreapp3.1\Razor\Views\File\Index.cshtml.g.cs
+D:\Aimore\Projects\MVCAppWithApi\MVCAppWithApi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\TestPartial.cshtml.g.cs
+D:\Aimore\Projects\MVCAppWithApi\MVCAppWithApi\obj\Debug\netcoreapp3.1\Razor\Views\UploadFile\Index.cshtml.g.cs
+D:\Aimore\Projects\MVCAppWithApi\MVCAppWithApi\obj\Debug\netcoreapp3.1\Razor\Views\UploadFile\RadioButton.cshtml.g.cs
