@@ -25,7 +25,7 @@ namespace UserManagement.Models
             //Check the user name and password  
             //Here can be implemented checking logic from the database  
             ClaimsIdentity identity = null;
-            bool isAuthenticated = false;
+            bool isAuthenticated = false; 
 
             if (userName == "Admin" && password == "password")
             {
